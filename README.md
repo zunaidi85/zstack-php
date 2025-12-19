@@ -1,10 +1,23 @@
+![Version](https://img.shields.io/github/v/release/zunaidi85/zstack-php)
+![License](https://img.shields.io/github/license/zunaidi85/zstack-php)
+![PHP](https://img.shields.io/badge/PHP-8%2B-blue)
+
 # zstack-php
 
 **Z-Stack** is a minimal PHP framework for solo developers who want full control, predictable flow, and zero magic.
 
 > Simple. Fast. No Nonsense.
+Build software, not abstractions.
 
 Z-Stack is built with an **AI-first workflow** in mind — *solo developer + AI*.
+
+## Why Z-Stack
+
+- Built for clarity, not abstraction
+- Designed for AI-assisted solo development
+- Secure defaults without heavy configuration
+- Explicit code flow you can reason about
+- No magic, no vendor lock-in
 
 ## Requirements
 - PHP 8.0+
