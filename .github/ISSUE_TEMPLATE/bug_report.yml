@@ -1,0 +1,15 @@
+name: Bug report
+description: Report a reproducible bug
+body:
+  - type: textarea
+    attributes:
+      label: What happened?
+      description: Describe the bug clearly.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: How to reproduce
+      description: Steps to reproduce the issue.
+    validations:
+      required: true
