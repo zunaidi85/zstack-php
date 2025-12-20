@@ -28,7 +28,7 @@ Z-Stack is built with an **AI-first workflow** in mind — *solo developer + AI*
 ```bash
 git clone https://github.com/zunaidi85/zstack-php.git
 cd zstack-php
-cp .env.example .env
+Create a `.env` file if needed.
 ```
 
 Point your web root to the `public/` directory, then open `/` in the browser.
